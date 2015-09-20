@@ -1,0 +1,2 @@
+D:\Elo Buddy !\My Addons\Skin Hack Buddy\Skin Hack Buddy\bin\Debug\Skin Hack Buddy.exe.config
+D:\Elo Buddy !\My Addons\Skin Hack Buddy\Skin Hack Buddy\obj\Debug\Skin Hack Buddy.csprojResolveAssemblyReference.cache
